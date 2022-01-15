@@ -1,0 +1,1 @@
+To run the code, you need to run npm install and npm start in your terminal first.
